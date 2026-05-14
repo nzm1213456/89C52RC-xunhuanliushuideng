@@ -1,2 +1,2 @@
-# 89C52RC-xunhuanliushuideng
+# 89C52RC-循环流水灯计数器
 基于89C52RC的循环流水灯及流水灯计数
